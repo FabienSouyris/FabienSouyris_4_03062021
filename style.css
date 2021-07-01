@@ -676,33 +676,6 @@ a {
     margin: auto auto auto auto;
 }
 
-.text-center{
-    text-align:center;
-}
-
-.desc{
-    font-size:20px;
-    margin:auto;
-    max-width:575px;
-    padding: 0 15px;
-}
-
-.descprod{
-    font-size:21.5px;
-    margin:auto;
-    max-width:450px;
-    padding: 0 15px;
-}
-
-.cita{
-    font-style: italic;
-}
-
-.sign{
-    font-size:13.5px;
-    
-}
-
 p {
     font-size: 11px;
 }
