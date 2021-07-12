@@ -298,6 +298,12 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    margin : 0px 0px 10px 10px;
+}
+
+#message{
+    margin-top:10px;
+    margin-left: 0px;
 }
 
 .scrollToTop {
