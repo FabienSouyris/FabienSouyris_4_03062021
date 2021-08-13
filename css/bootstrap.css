@@ -130,6 +130,7 @@ img {
     vertical-align: middle
 }
 
+
 .carousel-inner>.item>a>img,
 .carousel-inner>.item>img,
 .img-responsive,
@@ -604,7 +605,11 @@ ul {
     background-color: transparent;
     background-image: none;
     border: 1px solid transparent;
-    border-radius: 4px
+    border-radius: 4px;
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
 }
 
 @media (min-width:768px) {
